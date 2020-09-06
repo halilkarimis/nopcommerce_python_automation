@@ -18,10 +18,10 @@
 # c:\jenkins\
 # and type the following command
 # c:\jenkins\java -jar jenkins.war
-#
+
 # from browser open localhost:8080
 # Get the password from jenkins installation window and past it into the browser
-#
+
 
 #   GIT and GITHUB
 # 1) To create local git repository for your project goto project folder in CMD and type
@@ -39,15 +39,15 @@
 #    git commit -m "first commit"
 # 7) Push the code from local Git repo to remote GitHub repo
 #    git push -u origin master
-#
-#
+
+
 #    FOR ALL OTHER GITHUB COMMITS
 # git status
 # git add -A --> Add all files to staging area/indexing area
 # git commit -m "add some comments about the change"
 # git push -u origin master
-#
-#
+
+
 # TO GET REPO from GITHUB to LOCAL
 # git pull
-#
+
