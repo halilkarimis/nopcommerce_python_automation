@@ -1,0 +1,53 @@
+# pytest -v -s testCases/test_login.py                             ==> default browser
+
+# pytest -v -s testCases/test_login.py --browser chrome            ==> chrome
+# pytest -v -s testCases/test_login.py --browser firefox           ==> firefox
+# pytest -v -s testCases/test_login.py --browser ie                ==> ie
+
+# pytest -v -s -n=3 testCases/test_login.py --browser chrome       ==> parallel testing
+# pytest -v -s -n=3 --html=Reports\report.html testCases/test_login.py --browser chrome  ==> Create reports
+# pytest -s -v -m "sanity" --html=./Reports/report.html testCases/ --browser chrome
+#              -m "regression"
+#              -m "sanity and regression"
+#              -m "regression"
+#              -m "sanity or regression"
+
+
+#    JENKINS
+# After downloading and saving Jenkins.war file into jenkins folder, From command prompt open
+# c:\jenkins\
+# and type the following command
+# c:\jenkins\java -jar jenkins.war
+#
+# from browser open localhost:8080
+# Get the password from jenkins installation window and past it into the browser
+#
+
+#   GIT and GITHUB
+# 1) To create local git repository for your project goto project folder in CMD and type
+#    git init
+# 2) To connect local repository(Git) with Remote repository (GitHub)
+#    git remote add origin https://github.com/halilkarimis/nopcommerce_python_automation.git
+# 3) Before doing first commit execute following commands to configure the connection
+#    git config --global user.name "type github username"
+#    git config --global user.email "type github email"
+# 4) Checking the status of local files (committed / not committed)
+#    git status
+# 5) Add all the files to staging area
+#    git add -A
+# 6) Commit the code from staging area to Git repository (Local)
+#    git commit -m "first commit"
+# 7) Push the code from local Git repo to remote GitHub repo
+#    git push -u origin master
+#
+#
+#    FOR ALL OTHER GITHUB COMMITS
+# git status
+# git add -A --> Add all files to staging area/indexing area
+# git commit -m "add some comments about the change"
+# git push -u origin master
+#
+#
+# TO GET REPO from GITHUB to LOCAL
+# git pull
+#

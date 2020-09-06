@@ -1,0 +1,49 @@
+09/04/2020 10:42:05 PM: INFO: ******** Test_001_Login --> test_homepage_title ********
+09/04/2020 10:42:07 PM: INFO: ******** Test_001_Login --> test_homepage_title --> PASSED ********
+09/04/2020 10:42:12 PM: INFO: ******** Test_001_Login --> test_login --> PASSED ********
+
+
+09/04/2020 10:44:34 PM: INFO: ******** Test_001_Login --> test_homepage_title ********
+09/04/2020 10:44:36 PM: INFO: ******** Test_001_Login --> test_homepage_title --> PASSED ********
+09/04/2020 10:44:39 PM: INFO: ******** Test_001_Login --> test_login ********
+09/04/2020 10:44:44 PM: INFO: ******** Test_001_Login --> test_login --> PASSED ********
+09/05/2020 10:17:27 AM: INFO: ******* Starting Test_002_DDT_Login Test **********
+09/05/2020 10:17:27 AM: INFO: ******* Starting Login DDT Test **********
+09/05/2020 10:22:15 AM: INFO: ******* Starting Test_002_DDT_Login Test **********
+09/05/2020 10:22:15 AM: INFO: ******* Starting Login DDT Test **********
+09/05/2020 10:22:27 AM: INFO: **** passed ****
+09/05/2020 10:23:15 AM: INFO: ******* Starting Test_002_DDT_Login Test **********
+09/05/2020 10:23:15 AM: INFO: ******* Starting Login DDT Test **********
+09/05/2020 10:23:26 AM: INFO: **** passed ****
+09/05/2020 10:23:50 AM: INFO: ******* Starting Test_002_DDT_Login Test **********
+09/05/2020 10:23:50 AM: INFO: ******* Starting Login DDT Test **********
+09/05/2020 10:24:02 AM: INFO: **** passed ****
+09/05/2020 10:26:46 AM: INFO: ******* Starting Test_002_DDT_Login Test **********
+09/05/2020 10:26:46 AM: INFO: ******* Starting Login DDT Test **********
+09/05/2020 10:26:56 AM: INFO: **** passed ****
+09/05/2020 10:27:58 AM: INFO: ******* Starting Test_002_DDT_Login Test **********
+09/05/2020 10:27:58 AM: INFO: ******* Starting Login DDT Test **********
+09/05/2020 10:28:09 AM: INFO: **** passed ****
+09/05/2020 10:28:15 AM: INFO: **** passed ****
+09/05/2020 10:28:21 AM: INFO: **** passed ****
+09/05/2020 10:28:26 AM: INFO: **** passed ****
+09/05/2020 10:28:26 AM: INFO: ******* DDT Login test passed **********
+09/05/2020 10:28:26 AM: INFO: ******* End of Login DDT Test **********
+09/05/2020 10:28:26 AM: INFO: **************** Completed  TC_LoginDDT_002 ************* 
+09/05/2020 04:26:04 PM: INFO: ****** Add Customer Passed ******
+09/06/2020 11:02:54 AM: INFO: ****** Add Customer Passed ******
+09/06/2020 11:02:57 AM: INFO: ******** Test_001_Login --> test_login ********
+09/06/2020 11:03:06 AM: INFO: ******** Test_001_Login --> test_login --> PASSED ********
+09/06/2020 11:03:47 AM: INFO: ******** Test_001_Login --> test_homepage_title ********
+09/06/2020 11:03:48 AM: INFO: ******** Test_001_Login --> test_homepage_title --> PASSED ********
+09/06/2020 11:03:52 AM: INFO: ******** Test_001_Login --> test_login ********
+09/06/2020 11:04:00 AM: INFO: ******** Test_001_Login --> test_login --> PASSED ********
+09/06/2020 11:04:03 AM: INFO: ******* Starting Test_002_DDT_Login Test **********
+09/06/2020 11:04:03 AM: INFO: ******* Starting Login DDT Test **********
+09/06/2020 11:04:15 AM: INFO: **** passed ****
+09/06/2020 11:04:22 AM: INFO: **** passed ****
+09/06/2020 11:04:27 AM: INFO: **** passed ****
+09/06/2020 11:04:33 AM: INFO: **** passed ****
+09/06/2020 11:04:33 AM: INFO: ******* DDT Login test passed **********
+09/06/2020 11:04:33 AM: INFO: ******* End of Login DDT Test **********
+09/06/2020 11:04:33 AM: INFO: **************** Completed  TC_LoginDDT_002 ************* 
